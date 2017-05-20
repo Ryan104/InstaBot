@@ -1,3 +1,6 @@
+# Ignore image download files
+dir_to_ignore/ImageDownloader/Images
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
