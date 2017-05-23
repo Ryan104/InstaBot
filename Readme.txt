@@ -14,3 +14,4 @@ TODO LIST:
 -Create follow / Unfollow
 -Create scheduler for likes and follows
 -Create log to keep track of all activity
+- 'https://www.instagram.com/peace.in.solitude/?__a=1' to get json w/ user info
